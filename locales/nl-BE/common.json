@@ -1,3 +1,5 @@
 {
-    "greeting": "Hallo wereld"
+    "greeting": "Hallo wereld",
+    "home": "Thuis",
+    "about": "Over mij"
 }

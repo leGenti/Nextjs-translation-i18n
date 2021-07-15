@@ -1,3 +1,5 @@
 {
-    "greeting": "Bonjour le monde"
+    "greeting": "Bonjour le monde",
+    "home": "Maison",
+    "about": "Sur moi"
 }
